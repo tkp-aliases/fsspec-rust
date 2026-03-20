@@ -4,7 +4,7 @@ _src_path: https://github.com/python-project-templates/base.git
 add_docs: false
 add_extension: python
 add_wiki: false
-email: t.paine154@ggmail.com
+email: t.paine154@gmail.com
 github: tkp-aliases
 project_description: Alias for fsspec-rs
 project_name: fsspec-rust
