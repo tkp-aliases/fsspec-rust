@@ -1,4 +1,4 @@
-from fsspec_rust import *  # noqa
+from fsspec_rust import *
 
 
 def test_all():
